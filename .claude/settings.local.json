@@ -1,0 +1,17 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(find:*)",
+      "WebSearch",
+      "WebFetch(domain:github.com)",
+      "Bash(gh api:*)",
+      "Bash(cd:*)",
+      "Bash(pip install:*)",
+      "Bash(python:*)",
+      "Bash(gh repo:*)",
+      "Bash(git remote:*)",
+      "Bash(git rm:*)",
+      "Bash(git:*)"
+    ]
+  }
+}
